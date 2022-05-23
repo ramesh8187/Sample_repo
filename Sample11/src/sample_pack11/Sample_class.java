@@ -25,9 +25,7 @@ public class Sample_class {
 		
 		
 		System.out.println("hashset=="+hs);
-             hs.addAll(li);	
-             System.out.println("hashset size=="+hs.size());
-             System.out.println("hashset+ linkedlist=="+hs);
+             
              
 
 	}
